@@ -85,6 +85,7 @@
 | [0383-ransom-note](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0709-to-lower-case](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0709-to-lower-case) |
 ## Trie
 |  |
 | ------- |
