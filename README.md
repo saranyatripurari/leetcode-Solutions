@@ -20,6 +20,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0202-happy-number) |
 ## Array
 |  |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
 | ------- |
