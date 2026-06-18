@@ -21,6 +21,7 @@
 | [0001-two-sum](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
@@ -43,6 +44,7 @@
 | [0074-search-a-2d-matrix](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0724-find-pivot-index) |
 ## String
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0217-contains-duplicate) |
 ## Prefix Sum
 |  |
 | ------- |
