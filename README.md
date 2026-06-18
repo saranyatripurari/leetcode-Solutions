@@ -18,6 +18,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0383-ransom-note) |
@@ -36,6 +37,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
