@@ -7,11 +7,13 @@
 | [0074-search-a-2d-matrix](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0704-binary-search) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 ## Hash Table
 |  |
 | ------- |
