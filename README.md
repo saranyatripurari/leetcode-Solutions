@@ -40,6 +40,7 @@
 | [0066-plus-one](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -140,6 +141,7 @@
 | ------- |
 | [0136-single-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
@@ -156,4 +158,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0258-add-digits) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
