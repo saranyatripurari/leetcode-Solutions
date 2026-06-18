@@ -4,6 +4,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0704-binary-search) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0074-search-a-2d-matrix](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0724-find-pivot-index) |
@@ -70,4 +72,8 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0724-find-pivot-index) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
