@@ -35,6 +35,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0053-maximum-subarray) |
@@ -84,6 +86,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0217-contains-duplicate) |
 ## Prefix Sum
