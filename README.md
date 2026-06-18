@@ -88,6 +88,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0190-reverse-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -117,6 +118,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
