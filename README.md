@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -58,6 +59,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0136-single-number) |
