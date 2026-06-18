@@ -40,6 +40,7 @@
 | [0066-plus-one](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
@@ -147,4 +148,12 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
