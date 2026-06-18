@@ -34,6 +34,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0367-valid-perfect-square) |
