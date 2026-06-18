@@ -31,6 +31,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0169-majority-element](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0169-majority-element) |
+| [0724-find-pivot-index](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0724-find-pivot-index) |
 ## String
 |  |
 | ------- |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
