@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0704-binary-search) |
 ## Interactive
 |  |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0202-happy-number) |
+| [0367-valid-perfect-square](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 ## Two Pointers
 |  |
 | ------- |
