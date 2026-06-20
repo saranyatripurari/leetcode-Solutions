@@ -63,6 +63,7 @@
 | [0283-move-zeroes](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0647-palindromic-substrings](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Array
 |  |
@@ -109,6 +110,7 @@
 | [0383-ransom-note](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0647-palindromic-substrings](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0709-to-lower-case](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0709-to-lower-case) |
 ## Trie
 |  |
@@ -157,6 +159,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0338-counting-bits) |
+| [0647-palindromic-substrings](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
 | ------- |
