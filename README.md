@@ -61,6 +61,7 @@
 | [0005-longest-palindromic-substring](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -75,6 +76,7 @@
 | [0011-container-with-most-water](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0035-search-insert-position) |
