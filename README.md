@@ -54,6 +54,7 @@
 | [0367-valid-perfect-square](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3099-harshad-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/3099-harshad-number) |
 ## Two Pointers
 |  |
 | ------- |
