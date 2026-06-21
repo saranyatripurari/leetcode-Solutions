@@ -52,6 +52,7 @@
 | [0342-power-of-four](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Two Pointers
 |  |
 | ------- |
