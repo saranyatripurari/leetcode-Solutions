@@ -75,6 +75,7 @@
 | [0344-reverse-string](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0647-palindromic-substrings](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0647-palindromic-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Array
 |  |
@@ -225,6 +226,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0143-reorder-list) |
+| [0876-middle-of-the-linked-list](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
