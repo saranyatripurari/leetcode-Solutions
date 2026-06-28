@@ -211,6 +211,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0326-power-of-three) |
@@ -229,6 +230,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Heap (Priority Queue)
