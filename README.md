@@ -76,6 +76,7 @@
 | [0202-happy-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0647-palindromic-substrings](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0647-palindromic-substrings) |
@@ -166,6 +167,7 @@
 | [0217-contains-duplicate](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0414-third-maximum-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
@@ -249,6 +251,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Merge Sort
 |  |
 | ------- |
@@ -257,4 +260,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
