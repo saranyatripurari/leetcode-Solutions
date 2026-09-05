@@ -40,6 +40,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Math
@@ -114,6 +115,7 @@
 | [0268-missing-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0724-find-pivot-index) |
@@ -176,6 +178,7 @@
 | [0268-missing-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0414-third-maximum-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
