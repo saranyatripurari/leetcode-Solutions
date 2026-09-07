@@ -29,6 +29,7 @@
 | [0013-roman-to-integer](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0169-majority-element) |
@@ -105,6 +106,7 @@
 | [0088-merge-sorted-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -132,6 +134,7 @@
 | [0058-length-of-last-word](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -146,6 +149,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0139-word-break) |
 ## Queue
 |  |
 | ------- |
@@ -196,6 +200,7 @@
 | [0005-longest-palindromic-substring](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0647-palindromic-substrings) |
@@ -285,4 +290,12 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
