@@ -61,6 +61,7 @@
 | [0367-valid-perfect-square](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0507-perfect-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3099-harshad-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/3099-harshad-number) |
 ## Two Pointers
@@ -122,6 +123,7 @@
 | [0704-binary-search](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
 | ------- |
@@ -233,6 +235,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
 |  |
 | ------- |
@@ -298,4 +301,12 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0139-word-break) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
