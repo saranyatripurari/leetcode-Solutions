@@ -104,6 +104,7 @@
 | [0053-maximum-subarray](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0136-single-number) |
@@ -214,6 +215,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0231-power-of-two) |
@@ -309,4 +311,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
