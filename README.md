@@ -102,6 +102,7 @@
 | [0035-search-insert-position](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0078-subsets) |
@@ -200,6 +201,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 ## Dynamic Programming
 |  |
@@ -238,6 +240,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
