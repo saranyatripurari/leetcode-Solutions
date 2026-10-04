@@ -54,6 +54,7 @@
 | [0069-sqrtx](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0268-missing-number) |
@@ -146,6 +147,7 @@
 | [0125-valid-palindrome](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -258,6 +260,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0224-basic-calculator](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0326-power-of-three) |
@@ -267,6 +270,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
