@@ -13,6 +13,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0704-binary-search) |
@@ -39,6 +40,7 @@
 | [0242-valid-anagram](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0409-longest-palindrome) |
@@ -91,6 +93,7 @@
 | [0295-find-median-from-data-stream](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0647-palindromic-substrings](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -128,6 +131,7 @@
 | [0238-product-of-array-except-self](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -199,6 +203,7 @@
 | [0242-valid-anagram](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0349-intersection-of-two-arrays](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
