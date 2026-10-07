@@ -1,33 +1,21 @@
-# 234. Palindrome Linked List
-# Given the head of a singly linked list, return true if it is a palindrome or false otherwise.
-
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
 class Solution:
-    def middleNode(self, head):
-        slow = head
-        fast = head
-        while fast and fast.next:
-            slow = slow.next
-            fast = fast.next.next
-        return slow
+    def isPalindrome(self, head: ListNode | None) -> bool:
+        st=[]
+        temp=head
+        while temp!=None:
+            st.append(temp.val)
+            temp=temp.next
+        temp=head
 
-    def reverseList(self,head):
-         prev = None # two vars None or prev both are same first node next none untundhiii 
-         curr = head
-         while curr:
-            nxt = curr.next
-            curr.next = prev
-            prev = curr
-            curr = nxt
-         return prev
-    def isPalindrome(self,head):
-        middle=self.middleNode(head)
-        right=self.reverseList(middle)
-        left=head
-        while right:
-            if left.val != right.val:
+        while temp!=None:
+            elem=st.pop()
+            if temp.val!=elem:
                 return False
             else:
-              left = left.next
-              right = right.next
+                temp=temp.next
         return True
-        
