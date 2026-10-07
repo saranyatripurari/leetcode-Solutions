@@ -358,4 +358,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
