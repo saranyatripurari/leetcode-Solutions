@@ -1,22 +1,21 @@
 class Solution:
+    def sumOfSquares(self,n):
+        s=0
+        while n!=0:
+            temp=n%10
+            s+=(temp**2)
+            n=n//10
+        return s
     def isHappy(self, n: int) -> bool:
-
-        seen = set()
-
-        while n != 1 and n not in seen:
-
-            seen.add(n)
-
-            total = 0
-
-            while n > 0:
-
-                digit = n % 10
-
-                total += digit * digit
-
-                n = n // 10
-
-            n = total
-
-        return n == 1
+        f=n
+        s=n
+        while True:
+            f=self.sumOfSquares(f)
+            f=self.sumOfSquares(f)
+            s=self.sumOfSquares(s)
+            if f==s:
+                break
+        if f==1:
+            return True
+        else:
+            return False
