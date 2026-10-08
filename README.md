@@ -362,4 +362,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/saranyatripurari/leetcode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
