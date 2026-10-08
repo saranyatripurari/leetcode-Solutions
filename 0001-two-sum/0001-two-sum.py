@@ -1,11 +1,10 @@
 class Solution:
     def twoSum(self, nums, target):
-        mp = {}
-
+        d={}
         for i in range(len(nums)):
-            need = target - nums[i]
-
-            if need in mp:
-                return [mp[need], i]
-
-            mp[nums[i]] = i
+            elem=nums[i]
+            pe=target-elem
+            if pe not in d:
+                d[elem]=i
+            else:
+                return [d[pe],i]
